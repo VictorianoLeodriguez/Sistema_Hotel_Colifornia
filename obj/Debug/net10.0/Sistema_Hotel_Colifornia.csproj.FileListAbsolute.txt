@@ -1,0 +1,14 @@
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\bin\Debug\net10.0\Sistema_Hotel_Colifornia.exe
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\bin\Debug\net10.0\Sistema_Hotel_Colifornia.deps.json
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\bin\Debug\net10.0\Sistema_Hotel_Colifornia.runtimeconfig.json
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\bin\Debug\net10.0\Sistema_Hotel_Colifornia.dll
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\bin\Debug\net10.0\Sistema_Hotel_Colifornia.pdb
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.AssemblyInfoInputs.cache
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.AssemblyInfo.cs
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.csproj.CoreCompileInputs.cache
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.dll
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\refint\Sistema_Hotel_Colifornia.dll
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.pdb
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.genruntimeconfig.cache
+c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\ref\Sistema_Hotel_Colifornia.dll
