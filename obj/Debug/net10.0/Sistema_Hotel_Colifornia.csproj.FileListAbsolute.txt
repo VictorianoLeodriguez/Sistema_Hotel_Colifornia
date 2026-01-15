@@ -12,3 +12,4 @@ c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\refint\
 c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.pdb
 c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.genruntimeconfig.cache
 c:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\ref\Sistema_Hotel_Colifornia.dll
+C:\Users\Victoriano\Documents\Sistema_Hotel_Colifornia\obj\Debug\net10.0\Sistema_Hotel_Colifornia.sourcelink.json
